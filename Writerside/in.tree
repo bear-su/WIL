@@ -6,5 +6,6 @@
                  name="Instance Name"
                   start-page="jpa.md">
 
+    <toc-element topic="클린아키텍처.md"/>
     <toc-element topic="jpa.md"/>
 </instance-profile>
