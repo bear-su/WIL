@@ -10,4 +10,8 @@
         <description>Created after removal of "Starter" from Instance Name</description>
         <accepts>starter.html</accepts>
     </rule>
+    <rule id="6708f988">
+        <description><![CDATA[Created after removal of "<Empty-MD-Topic.md>" from Instance Name]]></description>
+        <accepts>Empty-MD-Topic.html</accepts>
+    </rule>
 </rules>
