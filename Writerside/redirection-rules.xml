@@ -14,4 +14,8 @@
         <description><![CDATA[Created after removal of "<Empty-MD-Topic.md>" from Instance Name]]></description>
         <accepts>Empty-MD-Topic.html</accepts>
     </rule>
+    <rule id="2d728f79">
+        <description>Created after removal of "Spring Batch" from Instance Name</description>
+        <accepts>Batch.html</accepts>
+    </rule>
 </rules>
